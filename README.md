@@ -1,4 +1,4 @@
-# Projects1
+# Agricultural Prediction Model
 this project creates an agricultural prediction model which uses logistic regression and is done in python.
 this was coded in vs code.
 a webpage is created to run the program using pickle and flask library.
